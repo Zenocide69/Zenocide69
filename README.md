@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zenocide69
-- 👀 I'm interested in games like valorant, and also interested coding and learning basics.
+- 👀 I'm interested in coding and learning basics.
 - 🌱 I’m currently learning html and c++ in coding
 - 💞️ I’m not specific on collab
 - 📫 you can reach on my discord that is Zenocide#1293

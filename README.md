@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zenocide69
+- 👋 Hi, I’m @Pranav Prasad
 - 👀 I'm interested in coding and learning basics.
 - 🌱 I’m currently learning html and c++ in coding
 - 💞️ I’m not specific on collab
